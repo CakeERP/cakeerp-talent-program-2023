@@ -6,3 +6,4 @@
 
 ## Contributors
 
+- Gustavo Dutra <gudutra05@outlook.com>
